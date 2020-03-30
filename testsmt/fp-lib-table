@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name polymodsmt)(type KiCad)(uri ${KIPRJMOD}/polymodsmt.pretty)(options "")(descr ""))
+)
