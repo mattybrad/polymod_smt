@@ -2526,7 +2526,7 @@
       (net 50 "Net-(U2-Pad52)"))
   )
 
-  (gr_text "Parameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X" (at 86 40) (layer F.SilkS)
+  (gr_text "Parameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X" (at 85.6 48) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 240 25) (end 40 25) (layer Edge.Cuts) (width 0.15))
