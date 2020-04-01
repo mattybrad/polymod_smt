@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 5)
+    (drawings 9)
     (tracks 465)
     (zones 0)
     (modules 47)
@@ -314,7 +314,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E9AD0DC)
-    (at 137.28 52)
+    (at 195.28 53)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5E8D8F7D)
@@ -350,7 +350,7 @@
   )
 
   (module Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A (layer F.Cu) (tedit 5B301BBE) (tstamp 5E9AD0CB)
-    (at 149 33.35 90)
+    (at 205 35.35 90)
     (descr "Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
     (tags "capacitor tantalum")
     (path /5E944BAC)
@@ -672,7 +672,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5E9AD020)
-    (at 117 58.35 270)
+    (at 175 59.35 270)
     (descr SOD-123)
     (tags SOD-123)
     (path /5E7B9039)
@@ -982,7 +982,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric (layer F.Cu) (tedit 5B36C52C) (tstamp 5E9ACF82)
-    (at 117.9375 65 180)
+    (at 175.9375 66 180)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags diode)
     (path /5E700DF8)
@@ -1058,7 +1058,7 @@
   )
 
   (module Package_DIP:SMDIP-8_W9.53mm (layer F.Cu) (tedit 5A02E8C5) (tstamp 5E9ACF5C)
-    (at 127.12 56.18)
+    (at 185.12 57.18)
     (descr "8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)")
     (tags "SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil")
     (path /5E7B8E5F)
@@ -1181,7 +1181,7 @@
   )
 
   (module Package_SO:SOIC-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5A02F2D3) (tstamp 5E9ACF1B)
-    (at 157.5 66.5)
+    (at 213.5 68.5)
     (descr "16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
     (path /5E700A12)
@@ -1813,7 +1813,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical (layer F.Cu) (tedit 5A3D4993) (tstamp 5E9ACDBA)
-    (at 159 53 90)
+    (at 215 55 90)
     (descr "Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html")
     (tags "Potentiometer vertical Alps RK09K Single")
     (path /5E94A401)
@@ -2112,7 +2112,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E9ACD27)
-    (at 136.9375 57)
+    (at 194.9375 58)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5E8CE97D)
@@ -2148,7 +2148,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E9ACD16)
-    (at 117.9375 52)
+    (at 175.9375 53)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5E8A0D3F)
@@ -2292,7 +2292,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E9ACCD2)
-    (at 117.9375 68.18 180)
+    (at 175.9375 69.18 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5E840A54)
@@ -2328,7 +2328,7 @@
   )
 
   (module polymodsmt:MIDI_DIN5 (layer F.Cu) (tedit 5DB80F1F) (tstamp 5E9ACCC1)
-    (at 126 35)
+    (at 184 36)
     (descr "Din 5 (MIDI), Pro Signal P/N PSG03463")
     (path /5E70122F)
     (fp_text reference J1 (at 0 11.00074) (layer F.Fab)
@@ -2357,7 +2357,7 @@
   )
 
   (module polymodsmt:Tayda_3.5mm_stereo_TRS_jack_A-853 (layer F.Cu) (tedit 5DB7593E) (tstamp 5E9ACCB6)
-    (at 158 29.59)
+    (at 214 31.59)
     (path /5E929252)
     (fp_text reference J5 (at 0 6.35) (layer F.Fab)
       (effects (font (size 0.8 0.8) (thickness 0.15)))
@@ -2378,7 +2378,7 @@
   )
 
   (module teensy:Teensy30_31_32_LC (layer F.Cu) (tedit 5A29202F) (tstamp 5E9ACCAD)
-    (at 104 46 270)
+    (at 128 46 270)
     (path /5E7B8AF8)
     (fp_text reference U2 (at 0 -10.16 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2526,13 +2526,17 @@
       (net 50 "Net-(U2-Pad52)"))
   )
 
+  (gr_line (start 108 64) (end 108 28) (layer Dwgs.User) (width 0.2))
+  (gr_line (start 144 64) (end 108 64) (layer Dwgs.User) (width 0.2))
+  (gr_line (start 144 28) (end 144 64) (layer Dwgs.User) (width 0.2))
+  (gr_line (start 108 28) (end 144 28) (layer Dwgs.User) (width 0.2))
+  (gr_line (start 45 125) (end 45 25) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 145 125) (end 45 125) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 145 25) (end 145 125) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 45 25) (end 145 25) (layer Edge.Cuts) (width 0.2))
   (gr_text "Parameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X\nParameter X" (at 85.6 48) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_line (start 240 25) (end 40 25) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 240 125) (end 240 25) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 40 125) (end 240 125) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 40 25) (end 40 125) (layer Edge.Cuts) (width 0.15))
 
   (segment (start 91.415 72.555) (end 101.46 62.51) (width 0.25) (layer F.Cu) (net 5))
   (segment (start 56.7 72.555) (end 91.415 72.555) (width 0.25) (layer F.Cu) (net 5))
