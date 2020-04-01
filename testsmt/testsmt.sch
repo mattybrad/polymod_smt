@@ -42,7 +42,7 @@ U 1 1 5E700CE0
 P 6050 3750
 F 0 "RV1" H 5980 3796 50  0000 R CNN
 F 1 "R_POT" H 5980 3705 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 6050 3750 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 6050 3750 50  0001 C CNN
 F 3 "~" H 6050 3750 50  0001 C CNN
 	1    6050 3750
 	1    0    0    -1  
@@ -578,7 +578,7 @@ U 1 1 5E828549
 P 6850 3750
 F 0 "RV2" H 6780 3796 50  0000 R CNN
 F 1 "R_POT" H 6780 3705 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 6850 3750 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 6850 3750 50  0001 C CNN
 F 3 "~" H 6850 3750 50  0001 C CNN
 	1    6850 3750
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5E828A25
 P 7650 3750
 F 0 "RV3" H 7580 3796 50  0000 R CNN
 F 1 "R_POT" H 7580 3705 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 7650 3750 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 7650 3750 50  0001 C CNN
 F 3 "~" H 7650 3750 50  0001 C CNN
 	1    7650 3750
 	1    0    0    -1  
@@ -604,7 +604,7 @@ U 1 1 5E828A2D
 P 6050 4350
 F 0 "RV4" H 5980 4396 50  0000 R CNN
 F 1 "R_POT" H 5980 4305 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 6050 4350 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 6050 4350 50  0001 C CNN
 F 3 "~" H 6050 4350 50  0001 C CNN
 	1    6050 4350
 	1    0    0    -1  
@@ -617,7 +617,7 @@ U 1 1 5E82949C
 P 6850 4350
 F 0 "RV5" H 6780 4396 50  0000 R CNN
 F 1 "R_POT" H 6780 4305 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 6850 4350 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 6850 4350 50  0001 C CNN
 F 3 "~" H 6850 4350 50  0001 C CNN
 	1    6850 4350
 	1    0    0    -1  
@@ -630,7 +630,7 @@ U 1 1 5E8294A4
 P 7650 4350
 F 0 "RV6" H 7580 4396 50  0000 R CNN
 F 1 "R_POT" H 7580 4305 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 7650 4350 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 7650 4350 50  0001 C CNN
 F 3 "~" H 7650 4350 50  0001 C CNN
 	1    7650 4350
 	1    0    0    -1  
@@ -1343,7 +1343,7 @@ U 1 1 5E94A401
 P 8350 2300
 F 0 "RV7" H 8280 2346 50  0000 R CNN
 F 1 "R_POT" H 8280 2255 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 8350 2300 50  0001 C CNN
+F 2 "polymodsmt:Potentiometer_Alps_RK09K_Single_Vertical" H 8350 2300 50  0001 C CNN
 F 3 "~" H 8350 2300 50  0001 C CNN
 	1    8350 2300
 	-1   0    0    1   
@@ -1364,4 +1364,48 @@ Wire Wire Line
 Wire Wire Line
 	7550 2300 7750 2300
 Connection ~ 7550 2300
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E851B11
+P 1750 9100
+F 0 "H1" H 1850 9146 50  0000 L CNN
+F 1 "MountingHole" H 1850 9055 50  0000 L CNN
+F 2 "polymodsmt:MountingHole_3.2mm_M3" H 1750 9100 50  0001 C CNN
+F 3 "~" H 1750 9100 50  0001 C CNN
+	1    1750 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E851CE3
+P 1750 9350
+F 0 "H2" H 1850 9396 50  0000 L CNN
+F 1 "MountingHole" H 1850 9305 50  0000 L CNN
+F 2 "polymodsmt:MountingHole_3.2mm_M3" H 1750 9350 50  0001 C CNN
+F 3 "~" H 1750 9350 50  0001 C CNN
+	1    1750 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5E851D5F
+P 1750 9600
+F 0 "H3" H 1850 9646 50  0000 L CNN
+F 1 "MountingHole" H 1850 9555 50  0000 L CNN
+F 2 "polymodsmt:MountingHole_3.2mm_M3" H 1750 9600 50  0001 C CNN
+F 3 "~" H 1750 9600 50  0001 C CNN
+	1    1750 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5E851DDB
+P 1750 9850
+F 0 "H4" H 1850 9896 50  0000 L CNN
+F 1 "MountingHole" H 1850 9805 50  0000 L CNN
+F 2 "polymodsmt:MountingHole_3.2mm_M3" H 1750 9850 50  0001 C CNN
+F 3 "~" H 1750 9850 50  0001 C CNN
+	1    1750 9850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
